@@ -1,0 +1,16 @@
+{
+    "name": "uptodown/equalable",
+    "description": "An interface for checking equal objects",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rivas",
+            "email": "daniel@uptodown.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Uptodown\\EqualableInterface\\": "src/"
+        }
+    }
+}

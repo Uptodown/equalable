@@ -1,0 +1,14 @@
+.DS_Store
+.git
+.idea
+.metadata
+.project
+.tags
+.tags_swap
+/components/**/.git
+/components/**/vendor/
+/vendor/
+/vendor/**/.git
+*.cache
+**/.project
+**/vendor/

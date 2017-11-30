@@ -12,5 +12,13 @@
         "psr-4": {
             "Uptodown\\EqualableInterface\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Uptodown\\EqualableInterface\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
     }
 }
